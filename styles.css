@@ -10,4 +10,22 @@ p {
   color: red;
 }
 
+.caja {
+  border: 1px solid black;
+  width: 500px;
+  margin: 0px auto;
+  text-align: center;
+  background-color: palegoldenrod;
+  padding: 10px;
+}
+.caja h1 {
+  color: orange;
+}
+.caja p {
+  color: orangered;
+}
+.caja .info {
+  font-size: 12px;
+}
+
 /*# sourceMappingURL=styles.css.map */
