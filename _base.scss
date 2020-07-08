@@ -1,0 +1,42 @@
+$fuente-tipica: Sans-serif, Helvetica, Arial;
+$color-fondo: #ccc;
+$color-letra: red;
+
+body{
+    background: $color-fondo;
+}
+
+h1{
+    font-family: $fuente-tipica;
+}
+
+p{
+    color: $color-letra;
+}
+
+.caja{
+
+    border: 1px solid black;
+    width: 500px;
+    margin: 0px auto;
+    text-align: center;
+    background-color: palegoldenrod;
+    padding: 10px;
+
+    h1{
+        color: orange;
+    }
+
+    p{
+        color: orangered;
+    }
+
+    .info{
+        font-size: 12px;
+
+        .autor{
+            background-color: cornflowerblue;
+            font-size: 14px;
+        }
+    }
+}

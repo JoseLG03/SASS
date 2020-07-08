@@ -27,5 +27,13 @@ p {
 .caja .info {
   font-size: 12px;
 }
+.caja .info .autor {
+  background-color: cornflowerblue;
+  font-size: 14px;
+}
+
+h1 {
+  text-decoration: underline;
+}
 
 /*# sourceMappingURL=styles.css.map */
