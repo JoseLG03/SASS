@@ -1,10 +1,15 @@
 $fuente-tipica: Sans-serif, Helvetica, Arial;
 $color-fondo: #ccc;
+$color-letra: red;
 
 body{
-    background-color: $color-fondo;
+    background: $color-fondo;
 }
 
 h1{
-    font-family: $color-fondo;
+    font-family: $fuente-tipica;
+}
+
+p{
+    color: $color-letra;
 }

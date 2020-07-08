@@ -1,9 +1,13 @@
 body {
-  background-color: #ccc;
+  background: #ccc;
 }
 
 h1 {
-  font-family: #ccc;
+  font-family: Sans-serif, Helvetica, Arial;
+}
+
+p {
+  color: red;
 }
 
 /*# sourceMappingURL=styles.css.map */
