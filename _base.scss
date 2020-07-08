@@ -1,3 +1,4 @@
+//Variables
 $fuente-tipica: Sans-serif, Helvetica, Arial;
 $color-fondo: #ccc;
 $color-letra: red;
@@ -13,6 +14,8 @@ h1{
 p{
     color: $color-letra;
 }
+
+//anidacion
 
 .caja{
 
@@ -40,3 +43,5 @@ p{
         }
     }
 }
+
+//Mixins/Funciones
