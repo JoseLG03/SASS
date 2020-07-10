@@ -87,3 +87,13 @@ p{
 h1{
     font-size: 15px+15px;
 }
+
+//condicionales
+
+h1{
+    @if $color-fondo == #ccc{
+        color: green;
+    }@else{
+        color:black;
+    }
+}
