@@ -1,2 +1,2 @@
 "# SASS" 
-![Alt text](https://github.com/JoseLG03/SASS/master/sass.png "Image dice")
+![Alt text](https://github.com/JoseLG03/SASS/sass.png "Image dice")
