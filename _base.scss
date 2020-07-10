@@ -45,3 +45,17 @@ p{
 }
 
 //Mixins/Funciones
+
+@mixin crearBordes(){
+    border: 5px solid red;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px black;
+}
+
+.listado{
+    @include crearBordes;
+}
+
+.caja{
+    @include crearBordes;
+}
